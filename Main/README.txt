@@ -1,0 +1,2 @@
+Operating Systems project. This project can take a EXT2 file system operating system stored on a vdi file and validate that it's entire file system is correct.
+This includes superblocks, partition_tables, i_nodes, etc.
